@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdee9514-de7d-402d-b9e3-333eacbb4a62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/hw6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py/db_up.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py/faker_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_++.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_+.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_10.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_5.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_6.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_7.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_8.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/query_9.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2drLlQYftDNsnCrWd9c79KhKywp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.db_up.executor": "Run",
+    "Python.faker_db.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdee9514-de7d-402d-b9e3-333eacbb4a62" name="Changes" comment="" />
+      <created>1710761400767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710761400767</updated>
+      <workItem from="1710761407516" duration="639000" />
+      <workItem from="1710762062304" duration="2098000" />
+      <workItem from="1710764193980" duration="7806000" />
+      <workItem from="1710775649319" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/db_up_py$db_up.coverage" NAME="db_up Coverage Results" MODIFIED="1710775650895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
+    <SUITE FILE_PATH="coverage/hw6$db_up.coverage" NAME="db_up Coverage Results" MODIFIED="1710764526341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
+    <SUITE FILE_PATH="coverage/db_up_py$faker_db.coverage" NAME="faker_db Coverage Results" MODIFIED="1710775687836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
+    <SUITE FILE_PATH="coverage/hw6$faker_db.coverage" NAME="faker_db Coverage Results" MODIFIED="1710773249309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py" />
+  </component>
+</project>
