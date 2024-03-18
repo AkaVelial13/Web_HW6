@@ -12,7 +12,7 @@ fake = Faker()
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # path for db file
-db_path = os.path.join(current_dir, '..', 'db', 'university.db')
+db_path = os.path.join(current_dir, '..', 'university.db')
 
 # connection to db
 conn = sqlite3.connect(db_path)
